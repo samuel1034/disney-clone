@@ -29,6 +29,7 @@ a:hover {
 body {
   margin: 0;
   display: flex;
+  background-color: #040714;
 }
 
 h1 {
